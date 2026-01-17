@@ -14,17 +14,9 @@ I thrive in dynamic environments where I can continuously learn and contribute m
 
 ---
 
-## 🎓 Education
-- **B.Tech (CSE)** — Pranveer Singh Institute of Technology, Kanpur  
-  **CGPA:** 7.5  
-- **Intermediate:** 75.6%  
-- **High School:** 81.6%
-
----
-
 ## 🛠️ Skills
 ### 💻 Programming Languages
-- Java, JavaScript,C,
+- Java, JavaScript, C
 - C++
 - Python
 
